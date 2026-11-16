@@ -1,0 +1,3 @@
+event_hour,spike_date,spike_time,current_volume,previous_avg,pct_increase,z_score,spike_severity,responsible_category,responsible_keywords,spike_summary
+2026-11-13 18:00,2026-11-13,18:00 UTC,19,2.83,571.4,5.403,Critical,Technology,"cloud, cluster, enterprise","Critical spike in Technology: +571.4% (2.83 -> 19 articles, Z=5.403)"
+2026-11-14 13:00,2026-11-14,13:00 UTC,14,3.0,366.7,3.658,Critical,World News,"climate, coalition, emissions","Critical spike in World News: +366.7% (3.0 -> 14 articles, Z=3.658)"

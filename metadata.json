@@ -1,0 +1,6 @@
+{
+  "name": "NewsPulse",
+  "description": "Large-scale news media data processing, trend analytics, and statistical anomaly detection powered by Scala, Apache Spark SQL, and interactive Plotly visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

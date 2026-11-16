@@ -1,0 +1,25 @@
+metric,value
+raw_records_received,177
+invalid_records_dropped,2
+duplicate_records_removed,6
+cleaned_articles_output,169
+distinct_countries,13
+distinct_sources,37
+hourly_buckets_analyzed,48
+hourly_volume_mean,3.521
+hourly_volume_stddev,2.865
+hourly_volume_min,2
+hourly_volume_max,19
+z_score_threshold,1.8
+anomalies_detected,2
+total_news_spikes,2
+rapidly_growing_topics,25
+highest_spike_category,Technology
+most_explosive_topic,climate
+insufficient_data_flag,false
+zero_stddev_flag,false
+top_category,World News
+top_trending_topic,cloud
+earliest_article_utc,2026-11-13T00:00:00Z
+latest_article_utc,2026-11-14T23:06:00Z
+processing_time_ms,36292

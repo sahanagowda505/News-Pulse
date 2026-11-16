@@ -1,0 +1,9 @@
+category,article_count,share_pct,avg_tone
+World News,28,16.57,0.995
+Business,27,15.98,0.976
+Technology,27,15.98,0.804
+Science,23,13.61,0.868
+Health,19,11.24,0.443
+Politics,19,11.24,0.077
+Sports,14,8.28,0.289
+Entertainment,12,7.10,-0.3

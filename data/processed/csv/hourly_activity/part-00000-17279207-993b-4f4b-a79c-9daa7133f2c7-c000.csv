@@ -1,0 +1,49 @@
+event_hour,article_count,avg_tone,dominant_category,top_keywords,rolling_avg,global_mean,global_stddev,z_score,spike_ratio,is_anomaly,severity,alert_message,alert_explanation
+2026-11-13 00:00,4,-1.63,Business,"approval, biotech, bipartisan",3.52,3.52,2.86,0.167,1.14,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 01:00,2,-0.295,Business,"automated, chain, chains",4.0,3.52,2.86,-0.531,0.5,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 02:00,4,1.885,Business,"asian, atmosphere, barriers",3.0,3.52,2.86,0.167,1.33,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 03:00,3,1.013,Politics,"atmosphere, bilateral, bill",3.33,3.52,2.86,-0.182,0.9,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 04:00,4,1.063,Health,"bill, canadian, cancer",3.25,3.52,2.86,0.167,1.23,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 05:00,2,-1.74,Business,"bilateral, conglomerate, delhi",3.4,3.52,2.86,-0.531,0.59,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 06:00,3,1.37,Business,"approval, automated, biotech",3.17,3.52,2.86,-0.182,0.95,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 07:00,3,0.323,Business,"asia, asian, cloud",3.0,3.52,2.86,-0.182,1.0,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 08:00,4,-0.788,Business,"asian, band, battery",3.17,3.52,2.86,0.167,1.26,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 09:00,4,1.658,Business,"180m, animated, asian",3.17,3.52,2.86,0.167,1.26,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 10:00,3,2.427,Science,"climate, clinical, coalition",3.33,3.52,2.86,-0.182,0.9,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 11:00,4,1.685,Health,"180m, animated, bilateral",3.17,3.52,2.86,0.167,1.26,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 12:00,2,0.155,Business,"asian, cancer, clinical",3.5,3.52,2.86,-0.531,0.57,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 13:00,4,0.765,Technology,"cloud, cluster, enterprise",3.33,3.52,2.86,0.167,1.2,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 14:00,3,0.86,Sports,"australian, automated, bill",3.5,3.52,2.86,-0.182,0.86,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 15:00,2,2.23,Business,"assisted, cardiology, conglomerate",3.33,3.52,2.86,-0.531,0.6,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 16:00,4,0.138,Business,"automated, canadian, chain",3.0,3.52,2.86,0.167,1.33,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 17:00,2,1.995,Business,"bill, cooling, data",3.17,3.52,2.86,-0.531,0.63,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 18:00,19,0.8,Technology,"cloud, cluster, enterprise",2.83,3.52,2.86,5.403,6.71,true,CRITICAL,"Unusual volume spike in Technology coverage: 19 articles/hr (Z=5.403, 6.71x 6h rolling avg)","Hourly volume X=19 exceeded dataset mean (3.52) by Z=5.403 standard deviations (StdDev=2.86) and reached 6.71x the trailing 6-hour rolling baseline (2.83). Dominant category: Technology; leading terms: cloud, cluster, enterprise. Note: This flags an unusual surge in publication activity only and does not verify event truth."
+2026-11-13 19:00,2,2.035,Science,"base, biology, boston",5.67,3.52,2.86,-0.531,0.35,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 20:00,2,-1.3,Science,"assistant, base, bengaluru",5.33,3.52,2.86,-0.531,0.38,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 21:00,4,1.505,Business,"amazon, annual, australian",5.17,3.52,2.86,0.167,0.77,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 22:00,3,-0.44,Politics,"bipartisan, championship, cloud",5.5,3.52,2.86,-0.182,0.55,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-13 23:00,4,1.318,Business,"automated, bipartisan, chain",5.33,3.52,2.86,0.167,0.75,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 00:00,3,1.663,Health,"battery, border, clinical",5.67,3.52,2.86,-0.182,0.53,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 01:00,2,1.085,Business,"banking, canadian, credit",3.0,3.52,2.86,-0.531,0.67,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 02:00,2,1.07,Entertainment,"approval, biotech, competition",3.0,3.52,2.86,-0.531,0.67,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 03:00,4,-0.818,Health,"australian, automated, bipartisan",3.0,3.52,2.86,0.167,1.33,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 04:00,3,1.37,Business,"banking, clinical, coral",3.0,3.52,2.86,-0.182,1.0,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 05:00,2,-0.305,Entertainment,"alliance, approves, asia",3.0,3.52,2.86,-0.531,0.67,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 06:00,3,2.027,Politics,"alliance, approves, atmosphere",2.67,3.52,2.86,-0.182,1.12,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 07:00,2,1.33,Science,"atmosphere, captures, city",2.67,3.52,2.86,-0.531,0.75,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 08:00,2,3.515,Business,"banking, bill, credit",2.67,3.52,2.86,-0.531,0.75,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 09:00,4,0.252,Sports,"boston, indian, overtime",2.67,3.52,2.86,0.167,1.5,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 10:00,4,-1.157,Politics,"alliance, amazon, annual",2.67,3.52,2.86,0.167,1.5,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 11:00,3,-1.243,Entertainment,"180m, animated, approval",2.83,3.52,2.86,-0.182,1.06,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 12:00,3,1.197,Health,"assisted, cardiology, city",3.0,3.52,2.86,-0.182,1.0,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 13:00,14,0.708,World News,"climate, coalition, emissions",3.0,3.52,2.86,3.658,4.67,true,CRITICAL,"Unusual volume spike in World News coverage: 14 articles/hr (Z=3.658, 4.67x 6h rolling avg)","Hourly volume X=14 exceeded dataset mean (3.52) by Z=3.658 standard deviations (StdDev=2.86) and reached 4.67x the trailing 6-hour rolling baseline (3.0). Dominant category: World News; leading terms: climate, coalition, emissions. Note: This flags an unusual surge in publication activity only and does not verify event truth."
+2026-11-14 14:00,2,0.985,Health,"approval, biotech, completes",5.0,3.52,2.86,-0.531,0.4,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 15:00,3,1.323,World News,"amazon, annual, band",5.0,3.52,2.86,-0.182,0.6,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 16:00,3,-1.853,Business,"asia, bipartisan, commissions",4.83,3.52,2.86,-0.182,0.62,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 17:00,3,-1.267,Politics,"anomaly, canadian, cern",4.67,3.52,2.86,-0.182,0.64,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 18:00,4,0.448,Business,"alliance, approves, canadian",4.67,3.52,2.86,0.167,0.86,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 19:00,3,0.873,Entertainment,"amazon, annual, base",4.83,3.52,2.86,-0.182,0.62,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 20:00,2,0.455,Health,"cancer, climate, clinical",3.0,3.52,2.86,-0.531,0.67,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 21:00,2,0.625,Entertainment,"180m, animated, assisted",3.0,3.52,2.86,-0.531,0.67,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 22:00,2,-1.92,Science,"anomaly, boston, cern",2.83,3.52,2.86,-0.531,0.71,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.
+2026-11-14 23:00,3,2.347,Business,"autonomous, base, biology",2.67,3.52,2.86,-0.182,1.12,false,NORMAL,Baseline publication volume within normal statistical bounds,No anomaly triggered.

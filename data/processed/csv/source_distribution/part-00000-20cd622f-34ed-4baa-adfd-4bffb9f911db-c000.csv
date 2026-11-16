@@ -1,0 +1,38 @@
+source,article_count,share_pct,avg_tone,top_category
+Reuters,17,10.06,0.316,Technology
+TechCrunch,9,5.33,0.25,Technology
+Associated Press,8,4.73,-0.784,Politics
+The Hindu,8,4.73,0.48,Politics
+Bloomberg,7,4.14,1.433,Business
+Carbon Brief,7,4.14,1.79,World News
+Financial Times,6,3.55,0.975,Business
+Folha,6,3.55,1.848,World News
+Globe and Mail,6,3.55,0.185,World News
+WSJ,6,3.55,-0.408,Business
+Wired,6,3.55,1.005,Technology
+ABC News,5,2.96,0.812,Sports
+DW,5,2.96,1.09,Science
+ESPN,5,2.96,0.078,Sports
+Japan Times,5,2.96,0.796,Health
+Mint,5,2.96,2.598,Business
+STAT News,5,2.96,1.118,Health
+ScienceDaily,5,2.96,0.272,Science
+Space.com,5,2.96,2.37,Science
+Le Monde,4,2.37,2.348,Politics
+ScreenDaily,4,2.37,-1.445,Entertainment
+Variety,4,2.37,0.637,Entertainment
+BBC News,3,1.78,-1.05,Politics
+ESPN Cricinfo,3,1.78,-1.9,Sports
+Economic Times,3,1.78,0.07,Technology
+Handelsblatt,3,1.78,-0.023,Business
+Straits Times,3,1.78,0.257,World News
+The Guardian,3,1.78,1.99,Health
+NME,2,1.18,-0.225,Entertainment
+Nature News,2,1.18,-2.655,Science
+Nikkei Asia,2,1.18,2.59,Technology
+Sky Sports,2,1.18,2.48,Sports
+Autosport,1,0.59,3.93,Sports
+Hollywood Reporter,1,0.59,0.01,Entertainment
+IGN,1,0.59,0.07,Entertainment
+Times of India,1,0.59,-2.23,Health
+Unknown Source,1,0.59,0.81,World News

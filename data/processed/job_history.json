@@ -1,0 +1,42 @@
+[
+  {
+    "id": "run_1794768445838",
+    "timestamp": "2026-11-15T18:47:25.838Z",
+    "datasetName": "sample_global_news.csv",
+    "isSample": true,
+    "status": "Completed",
+    "rawCount": 177,
+    "cleanedCount": 169,
+    "duplicatesRemoved": 6,
+    "invalidDropped": 2,
+    "anomalyCount": 2,
+    "processingTimeMs": 27311
+  },
+  {
+    "id": "run_1794768388261",
+    "timestamp": "2026-11-15T18:46:28.261Z",
+    "datasetName": "sample_invalid.csv",
+    "isSample": true,
+    "status": "Failed",
+    "rawCount": 0,
+    "cleanedCount": 0,
+    "duplicatesRemoved": 0,
+    "invalidDropped": 0,
+    "anomalyCount": 0,
+    "processingTimeMs": 10367,
+    "errorMessage": "Invalid dataset schema: missing a 'title' or 'headline' column. Found columns: wrong_col_a, wrong_col_b, wrong_col_c"
+  },
+  {
+    "id": "run_1794768377797",
+    "timestamp": "2026-11-15T18:46:17.797Z",
+    "datasetName": "sample_tech_surge.csv",
+    "isSample": false,
+    "status": "Completed",
+    "rawCount": 87,
+    "cleanedCount": 87,
+    "duplicatesRemoved": 0,
+    "invalidDropped": 0,
+    "anomalyCount": 1,
+    "processingTimeMs": 35012
+  }
+]
